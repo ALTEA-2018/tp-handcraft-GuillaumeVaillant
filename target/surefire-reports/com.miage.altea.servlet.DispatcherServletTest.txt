@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.miage.altea.servlet.DispatcherServletTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.099 s - in com.miage.altea.servlet.DispatcherServletTest
